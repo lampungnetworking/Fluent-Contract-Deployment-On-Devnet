@@ -1,6 +1,5 @@
 ## Fluent-Contract-Deployment-On-Devnet
 - Project twitter : [fluentxyz](https://x.com/fluentxyz)
-- Follow me : [zunxbt](https://x.com/ZunXBT)
 ---
 - Open [Codespace](https://github.com/codespaces) or [Gitpod](https://gitpod.io/workspaces) (If it is taking long time to open then try to open in incognito tab)
 - Use Burner Wallet (Wallet which have no real funds)
